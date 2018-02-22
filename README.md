@@ -34,7 +34,7 @@ It's not a really hard project so I added a few bonuses making it pretty and fas
 
 ### Description
 
-LE but de ce projet est d'avoir un rendu graphique de différentes fractales.
+Le but de ce projet est d'avoir un rendu graphique de différentes fractales.
 
 ### Use it
 
