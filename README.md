@@ -9,8 +9,8 @@ This project was about coding a program that can display graphical representatio
 ### Use it
 
 Compile and launch with ```make it```
-
 			OR
+
 Compile it using : ```make```
 
 Then start it with ```./fractol julia```
@@ -41,8 +41,8 @@ Le but de ce projet est d'avoir un rendu graphique de différentes fractales.
 ### Use it
 
 ```make it``` pour compiler et lancer.
-
 			OU
+
 Compilation : ```make```
 
 Lancement : ```./fractol julia```
