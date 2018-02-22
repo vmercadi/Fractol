@@ -23,7 +23,7 @@ Then start it with ```./fractol julia```
 - Improving usage of minilibx library and C comprehension
 
 This project is my favorite at this moment (haven't finished RT yet).
-As a fractal lover, I really enjoyed coding it, this war a full pleasure !
+As a fractal lover, I really enjoyed coding it, this was a full pleasure !
 It's not a really hard project so I added a few bonuses making it pretty and fast to me !
 
 *********************************************************************************
