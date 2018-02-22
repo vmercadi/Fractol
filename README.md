@@ -9,8 +9,11 @@ This project was about coding a program that can display graphical representatio
 ### Use it
 
 Compile and launch with ```make it```
+
 			OR
+
 Compile it using : ```make```
+
 Then start it with ```./fractol julia```
 
 ### What I learned
@@ -39,20 +42,24 @@ Le but de ce projet est d'avoir un rendu graphique de différentes fractales.
 ### Use it
 
 ```make it``` pour compiler et lancer.
+
 			OU
+
 Compilation : ```make```
+
 Lancement : ```./fractol julia```
 
 ### Ce que j'ai appris
 
 - Convertir des maths complexe en code
-- Comment faire du multithreading sur CPU avec la librairie pthread
+- Faire du multithreading sur CPU avec la librairie pthread
 - Utiliser les tableaux de pointeurs sur fonctions
-- Gérer plein des events
+- Gérer des events
 - Créer des interfaces graphique
 - Améliorer ma compréhension de la minilibx et du C
 
 Ce projet est mon favoris pour le moment (bien qu'il risque d'être détroné par RT).
-J'ai vraiment apprécier le coder, surement en grande partie parce que je trouve fascinant les fractales !
+J'ai vraiment apprécié le coder, surement en grande partie parce que je trouve les fractales fascinantes !
+
 Bien que ce ne soit pas un projet très compliqué il m'a permis d'apprendre de nouvelles techniques
 et de m'améliorer en C tout en prenant plaisir travailler.
